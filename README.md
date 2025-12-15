@@ -2,7 +2,7 @@
 15 year old teenager from Türkiye 
 
 # 💪 i have experience with:
-lua, python, artificial intelligence and machine learning, LLM's, frontend development
+lua, python, OpenCV, artificial intelligence and machine learning, LLM's, frontend development
 
 # 📈 currently learning:
 Java ( also trying to master javascript hopefully 🙏 ) 
