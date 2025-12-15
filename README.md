@@ -1,12 +1,12 @@
-# about me:
+#  🎸 about me:
 15 year old teenager from Türkiye 
 
-# i have experience with:
+# 💪 i have experience with:
 lua, roblox scripting
 python, artificial intelligence and machine learning, LLM's
 frontend development
 
-# currently learning:
+# 📈 currently learning:
 Java
 ( also trying to master javascript hopefully 🙏 ) 
 
@@ -17,10 +17,6 @@ Java
 ![](https://nirzak-streak-stats.vercel.app/?user=ardaryusz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ardaryusz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub trophies
-![](https://github-profile-trophy.vercel.app/?username=ardaryusz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 [![](https://visitcount.itsvg.in/api?id=ardaryusz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 Beşiktaş 'till i die
