@@ -2,7 +2,7 @@
 15 year old teenager from Türkiye 
 
 # 💪 i have experience with:
-lua, roblox scripting
+lua, roblox scripting\n
 python, artificial intelligence and machine learning, LLM's
 frontend development
 
