@@ -1,5 +1,5 @@
 #  🎸 about me:
-15 year old teenager from Türkiye 
+16 year old teenager from Türkiye 
 
 # 💪 i have experience with:
 lua, python, OpenCV, artificial intelligence and machine learning, LLM's, frontend development
