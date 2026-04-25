@@ -2,10 +2,10 @@
 16 year old teenager from Türkiye 
 
 # 💪 i have experience with:
-lua, python, OpenCV, artificial intelligence and machine learning, LLM's, frontend & backend development
+OpenCV, AI & ML with python. Full-stack development. Frontend with HTML, CSS, JavaScript and TypeScript. Backend with Python, Java and primarily Rust.
 
 # 📈 currently learning:
-Java & Rust
+Java
 
 # 💻 my skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
