@@ -2,7 +2,15 @@
 16 year old teenager from Türkiye 
 
 # 💪 i have experience with:
-OpenCV, AI & ML with python. Full-stack development. Frontend with HTML, CSS, JavaScript and TypeScript. Backend with Python, Java and primarily Rust.
+Full-stack development. 
+
+Scripting, OpenCV, AI & ML with Python and Lua. 
+
+Frontend with HTML, CSS, JavaScript and TypeScript. 
+
+Backend with Python, Java and primarily Rust.
+
+installers using NSIS.
 
 # 📈 currently learning:
 Java
