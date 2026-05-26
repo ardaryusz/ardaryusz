@@ -8,7 +8,7 @@ Scripting, OpenCV, AI & ML with Python and Lua.
 
 Frontend with HTML, CSS, JavaScript and TypeScript. 
 
-Backend with Python, Java and primarily Rust.
+Backend with Python, Java, SQL, Node.JS and primarily Rust.
 
 installers using NSIS.
 
