@@ -1,5 +1,5 @@
 #  🎸 about me:
-16 year old teenager from Türkiye 
+teenager from Türkiye 
 
 # 💪 i have experience with:
 Full-stack development. 
